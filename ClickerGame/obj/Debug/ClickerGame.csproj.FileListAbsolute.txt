@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\coding\ClickerGame\ClickerGame\bin\Debug\ClickerGame.exe.config
+C:\Users\User\Desktop\coding\ClickerGame\ClickerGame\bin\Debug\ClickerGame.exe
+C:\Users\User\Desktop\coding\ClickerGame\ClickerGame\bin\Debug\ClickerGame.pdb
+C:\Users\User\Desktop\coding\ClickerGame\ClickerGame\obj\Debug\ClickerGame.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\coding\ClickerGame\ClickerGame\obj\Debug\ClickerGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\coding\ClickerGame\ClickerGame\obj\Debug\ClickerGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\coding\ClickerGame\ClickerGame\obj\Debug\ClickerGame.exe
+C:\Users\User\Desktop\coding\ClickerGame\ClickerGame\obj\Debug\ClickerGame.pdb
